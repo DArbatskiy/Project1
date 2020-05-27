@@ -1,0 +1,21 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.skills {
+    position: absolute;
+    top: 45px;
+    left: 210px;
+    list-style: none;
+}
+
+.skills li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    padding-bottom: 18px;
+}
+  
