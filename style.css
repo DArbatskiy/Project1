@@ -5,18 +5,54 @@
 }
 
 .skills {
-    position: absolute;
-    top: 45px;
-    left: 210px;
     list-style: none;
 }
 
 .skills li {
     font-family: 'Roboto', sans-serif;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 400;
     color: white;
-    padding-bottom: 18px;
-    text-align: right;
+    position: absolute;
 }
-  
+
+.skill-1 {
+    top: 58px;
+    left: 93px;
+}
+
+.skill-2 {
+    top: 88px;
+    left: 145px;
+}
+
+.skill-3 {
+    top: 118px;
+    left: 245px;
+}
+
+.skill-4 {
+    top: 148px;
+    left: 165px;
+}
+
+.skill-5 {
+    top: 178px;
+    left: 165px;
+}
+
+.skill-6 {
+    top: 208px;
+    left: 195px;
+}
+
+.skill-7 {
+    top: 238px;
+    left: 174px;
+}
+
+.skill-8 {
+    top: 268px;
+    left: 174px;
+}
+
